@@ -1,0 +1,45 @@
+﻿nav, header, .contenedor, .central{
+    max-width:92%;
+    height:10%;
+    margin:auto;
+}
+nav {
+    background-color: #005883;
+    color:black;
+    font-style:normal;
+    align-content:center;
+}
+header{
+    background-color:white;
+}
+.contenedor {
+    background-color: #F0B429;
+    
+}
+.central {
+    background-color: white;
+    display: inline-block;
+    max-width:65%;
+}
+footer {
+    background-color: #F47920;
+}
+ aside {
+    display: inline-block;
+    max-width: 30%;
+   
+}
+p {
+    text-align: justify !important;
+    margin-left: 2%;
+    margin-top: 2%;
+    margin-right: 2%;
+    margin-bottom: 2%;
+}
+.div1 {
+    background-color: #F47920;
+    display: inline-block;
+    position: center;
+    bottom: 0;
+    max-width: 500%;
+}
